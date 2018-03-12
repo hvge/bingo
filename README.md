@@ -2,7 +2,7 @@
 
 Návod na použitie:
 
-1. Pri najbližšom vystúpení pána premiéra, klikni sem >> [Tu bude URL](http://google.com) <<
+1. Pri najbližšom vystúpení pána premiéra, >> [klikni sem](http://dopice.sk/l7v) <<
 2. Ak sa ti nebudú páčiť náhodne zvolené políčka, tak stlač "obnovenie stránky"
 3. Ak v priamom prenose padne výrok z políčka z tvojej kartičky, tak si túto zaznač
 4. Políčko v strede hracej plochy je žolík.
