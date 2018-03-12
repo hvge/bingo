@@ -8,4 +8,4 @@ Návod na použitie:
 4. Políčko v strede hracej plochy je žolík.
 5. Ak sa ti podarí získať 5 políčok v horizontálnom, vodorovnom, alebo diagonálnom smere, tak vstaň a hlasno zvolaj **"Slovenskóoóóó!!"**
 
-A hlavne! Maj pri tom veľa zábavy :D
+A hlavne, maj pri tom všetkom veľa zábavy :D
