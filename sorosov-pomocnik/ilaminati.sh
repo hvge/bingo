@@ -32,7 +32,8 @@ panSABLONI="$HORE/sabloni.md"
 
 function utec
 {
-	echo "$(perl -MURI::Escape -e 'print uri_escape($ARGV[0]);' "$1")"
+	local prchava_hodnota="$(perl -MURI::Escape -e 'print uri_escape($ARGV[0]);' "$1")"
+	echo ${prchava_hodnota//%20/+}
 }
 
 function davajPolitruka
