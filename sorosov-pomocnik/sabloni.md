@@ -12,5 +12,6 @@ Návod na použitie:
 
 - Na vystúpenie sa môžeš vopred pripraviť a kartičku si vytlačiť *(cez wi-fi, ak sedíš vo veľkom kancli).* V tom prípade nebude obsahovať anglický návod na použitie.
 - Ak chceš túto stránku spropagovať, použi prosím túto linku >> [https://goo.gl/az8yeB](https://goo.gl/az8yeB) << Získam tak nehanebné štatistiky o tom kto, odkial, komu, koľko a prečo...
+- A pochvalu, špeciálne ak si mítingový korpožralok, si zaslúžia aj autori [Bullshit Binga](http://www.bullshitbingo.net) 😀
 
 A hlavne, uži si pri tom všetkom veľa zábavy ✌️🍿❤
