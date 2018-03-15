@@ -8,9 +8,9 @@ Návod na použitie:
 4. Políčko v strede hracej plochy je žolík.
 5. Ak sa ti podarí získať 5 políčok v horizontálnom, vodorovnom, alebo diagonálnom smere, tak vstaň a hlasno zvolaj **"Slovenskóoóóó!!"**
 
-## Nadpráca Ťa šlachtí
+### Nadpráca Ťa šlachtí
 
-1. Na vystúpenie sa môžeš vopred pripraviť a kartičku si vytlačiť (cez wi-fi, ak sedíš vo veľkom kancli). V tom prípade nebude obsahovať anglický návod na použitie.
-2. Ak chceš túto stránku spropagovať, použi prosím túto linku >> [https://goo.gl/az8yeB](https://goo.gl/az8yeB) << a získal tak nehanebné štatistiky o tom kto, odkial, komu a kedy...
+1. Na vystúpenie sa môžeš vopred pripraviť a kartičku si vytlačiť *(cez wi-fi, ak sedíš vo veľkom kancli).* V tom prípade nebude obsahovať anglický návod na použitie.
+2. Ak chceš túto stránku spropagovať, použi prosím túto linku >> [https://goo.gl/az8yeB](https://goo.gl/az8yeB) << Získam tak nehanebné štatistiky o tom kto, odkial, komu, koľko a prečo...
 
 A hlavne, uži si pri tom všetkom veľa zábavy ✌️🍿❤
