@@ -14,4 +14,4 @@ Návod na použitie:
 - Ak chceš túto stránku spropagovať, použi prosím túto linku >> [https://goo.gl/az8yeB](https://goo.gl/az8yeB) << Získam tak nehanebné štatistiky o tom kto, odkial, komu, koľko a prečo...
 - A pochvalu, špeciálne ak si mítingový korpožralok, si zaslúžia aj autori [Bullshit Binga](http://www.bullshitbingo.net) 😀
 
-A hlavne, uži si pri tom všetkom veľa zábavy ✌️🍿❤
+No predovšetkým nevešaj hlavu a uži si veľa zábavy ✌️🍿❤
